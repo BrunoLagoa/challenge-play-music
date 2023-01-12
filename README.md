@@ -54,7 +54,7 @@ Execute o arquivo `index.html`
 <br/><br/>
 
 <p>Site publicado em:</p>
-<a alt="Bruno Castro" target="_blank" rel="noopener noreferrer" href="https://brunolagoa.github.io/sidebar-menu/">Clique aqui para visualizar</a>
+<a alt="Bruno Castro" target="_blank" rel="noopener noreferrer" href="https://brunolagoa.github.io/challenge-play-music">Clique aqui para visualizar</a>
 
 ---
 
